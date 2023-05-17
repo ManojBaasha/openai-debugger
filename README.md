@@ -1,5 +1,3 @@
-Raw Markdown File: ReadMe.md
-
 # Debug Wrapper with OpenAI API
 
 This repository serves as a wrapper to facilitate code debugging using the OpenAI API. It provides a convenient way to interact with the API and debug your code effectively.
